@@ -3,12 +3,12 @@
 Currently, Magento 2 default does not activate a payment method for admin use only. In many cases, you will wish to have a payment method that you could assign to a backend order only and invisible on the checkout page in the frontend. For instance, sometimes, customers would like to make orders by phone or pay by money transfer or in-person cash. Therefore, [Magento 2 Admin Payment Method](https://bsscommerce.com/magento-2-admin-payment-method-extension.html) enables you to create orders from the backend and use the payment method visible at the backend only. 
 
 ## 1. Documentation 
-Installation guide: [Get It Now](https://bsscommerce.com/media/attachments/198_5c1b4aaab5f0d_Installation_Guide_Admin_Payment_Method_for_Magento_2.pdf)! 
-User guide: [Get It Now](https://bsscommerce.com/media/attachments/198_5c1b4aaab71a3_User_Guide-Admin_Payment_Method_Extension.pdf)!  
-Download from our live site: https://bsscommerce.com/magento-2-admin-payment-method-extension.html
-Get Support: https://bsscommerce.freshdesk.com/support/home 
-Contribute to BSSCommerce Github: https://github.com/BssGroup 
-Change log: https://bsscommerce.com/magento-2-admin-payment-method-extension.html
+- Installation guide: [Get It Now](https://bsscommerce.com/media/attachments/198_5c1b4aaab5f0d_Installation_Guide_Admin_Payment_Method_for_Magento_2.pdf)! 
+- User guide: [Get It Now](https://bsscommerce.com/media/attachments/198_5c1b4aaab71a3_User_Guide-Admin_Payment_Method_Extension.pdf)!  
+- Download from our live site: https://bsscommerce.com/magento-2-admin-payment-method-extension.html
+- Get Support: https://bsscommerce.freshdesk.com/support/home 
+- Contribute to BSSCommerce Github: https://github.com/BssGroup 
+- Change log: https://bsscommerce.com/magento-2-admin-payment-method-extension.html
 
 ## 2.  Detail Functions
 With Magento 2 Admin Payment Method, you can create a payment method and hide it from the frontend. Then, when creating orders in the backend, admin can use this payment method for the specific purpose. 
